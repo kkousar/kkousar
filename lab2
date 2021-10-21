@@ -1,0 +1,7 @@
+How is the accuracy of the validation set affected if we increase the percentage of validation set? What happens when we reduce it?
+ANS:if we increase the percentage of validation set,accuracy of the validation set increases.if we decrease the percentage of validation set,accuracy of the validation set decreases
+2. How does the size of the train and validation set affect how well we can predict the accuracy on the test set using the validation set?
+ANS:1.the accuracy of validation set should be more to get good output,for good accuracy there should be large data set
+2.if the accuracy of validation set is high,we get expect accurate output of test data set
+3. What do you think is a good percentage to reserve for the validation set so that thest two factors are balanced? 
+ANS:45%
